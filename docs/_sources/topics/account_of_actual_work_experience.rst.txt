@@ -1,5 +1,22 @@
 Initial Expectations vs How it Actually Went
 --------------------------------------------
+Before starting this role in January 2022, I already know what team I will be joining and what project I will be working on.
+I did an interview with the team lead right before my first internship ended summer last year. 
+The team lead explained to me what the project is, purpose of it and the progress so far.
+He also told me that this project is very important and impactful as it will be used by most engineers in 
+Qualcomm when it is mature and ready. I was super excited to be joining the team of course.
+So I had a rough idea about what I will be working on, I was told that I will be part of the 
+back-end team helping to build APIs with Python.
+
+My initial expectations of this project is that I will be working with a group of very bright engineers, building
+something impactful for the company. I had also hoped that I can be a good contributor to the team, be a good 
+team player, bring new ideas to the team, despite being an undergraduate intern. 
+
+In comparison to reality right now, my initial expectations were actually not that far off. I am indeed working with a group of 
+helpful and kind geniuses. I am learning so much from them in such a small amount of time. Furthermore, I also do
+contribute to the team consistently and frequently, I am able to complete all tasks thrown at me. Whenever I get 
+stuck, I know I can always reach out for my colleagues. Lastly, I did bring some new ideas to the team that
+they loved and actually implemented into the project. So, I am feeling good so far, and I am going to keep it up.
 
 
 Critical Assessment of Achievement of PLAC7009 Learning Outcomes
@@ -10,7 +27,7 @@ LO1 Critically analyze the enterprise, its culture and organization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Qualcomm Ireland has a very good working culture as it stresses a lot on work-life balance. 
 There isn't any sort of micromanagement in the workplace. 
-It is flexi-hours, so as long as you don't miss any meetings and you can get work done, it doesn't matter what time you clock in or clock out. 
+It is flexi-hours, so as long as you don't miss any meetings and you can get work done, it doesn't really matter what time you clock in or clock out. 
 People in Qualcomm are super nice, helpful, kind and always want the best for me. 
 I especially love the culture in my team, where we have weekly technical tips sharing session which I find very helpful. 
 Moreover, we also have a lot of social gatherings and team events such as team lunches, dinners, team building activities such as karting, hiking.
