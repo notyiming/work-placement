@@ -38,14 +38,6 @@ Student Profile and Relevance to Organization
 
     topics/student_profile_and_relevance_to_organization
 
-Future Career Planning
-======================
-
-.. toctree::
-    :maxdepth: 2
-
-    topics/future_career_planning
-
 Conclusion
 ==========
 

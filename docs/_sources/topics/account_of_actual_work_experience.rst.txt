@@ -59,15 +59,15 @@ Difficulties Experienced
 It's totally normal and expected that there will be problems or difficulties that us interns will experience. 
 One of the main difficulties I experienced was that most engineers here in Qualcomm speak in hardware/electrical related jargons and terms, 
 especially during meetings with people from other department. Coming from a software background, I had trouble understanding what exactly they are referring to. 
-I wasn't sure if I should spend some time asking and try to understand the jargons they use or I can get away without knowing exactly what they mean.
+I wasn't sure if I should spend some time asking and try to understand all the jargons they use or if I can get away without knowing exactly what they mean.
 
 Another issue I faced is team project related. When I first joined the team project in January, 
 I was spending a good amount of time reading the documentation of the project. 
 However, I had difficulty understanding because of the sub-par organization and layout of the documentation. 
 Some docs are outdated, so it's misleading, some docs are missing blank. That caused me more time than necessary to pick up and understand the project. 
-So I took the initiative and proposed a collaborative team effort to use Sphinx to document our project as there is a huge part of documentation that can 
-be generated automatically by using Sphinx. I am still trying to champion through to provide a documentation as detailed as possible. 
-This is so that a new-comer won't face the same issue as I did.
+I eventually understood more about the project by setting up meetings with colleagues and ask for their help explaining certain 
+topics to me. And to make sure the next new-comer won't face the same issue as I did, I took the initiative and proposed a collaborative team effort 
+to use Sphinx to document our project as detailed as possible. 
 
 
 Lessons Learned
