@@ -102,7 +102,7 @@ Technical
 #. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea
     
     Code needs to be written in a way so that it is understable not just by the developer who wrote it, but also by other developers that 
-    maintain the code. If hig-performance code is so complicated that is almost impossible for other developers to figure out, then it's 
+    maintain the code. If high-performance code is so complicated that is almost impossible for other developers to figure out, then it's 
     probably bad code. On the other hand, just because a piece of code is easy to explain to someone else doesn't mean it isn't bad code either.
     
 #. Special cases aren't special enough to break the rules

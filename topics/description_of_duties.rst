@@ -10,8 +10,8 @@ My scope of work in this team project is quite broad. I am responsible for:
 
 #. New feature implementation with unittesting, good coverage and pylint scores
 
-    I get tasked to implement new software features, new APIs, or just enchancing current APIs by adding more functionalities
-    requested by our clients. Normally before I write code, I will first come up with the unittests that are 
+    I get tasked to implement new software features, new APIs, or just enhancing current APIs by adding more functionalities
+    requested by our clients. Normally, before I write code, I will first come up with the unittests that are 
     relevant to the task specification. This process is called Test Driven Development \(TDD\). I learnt this through
     a Python training provided by an engineer in Qualcomm. This will result in higher code coverage score because 
     I am only writing code that is needed by the unittests to pass. 
@@ -23,7 +23,7 @@ My scope of work in this team project is quite broad. I am responsible for:
 
     I also do spend some time debugging and fixing bugs from the tickets I got assigned to. 
     Some of the tickets are raised by us developers internally, while some others are raised by
-    our clients from other teams. I also help out my team debug together at times via pair programming, 
+    our clients from other teams. I also help out my team debugging together at times via pair programming, 
     I believe two pairs of eyes normally discover the bugs twice as fast.
 
 #. Setting up and the maintenance of our project documentation via Sphinx
@@ -65,7 +65,7 @@ Project Tech Stack and Workflow
 As for the team project I am working on, we use Python for the most part. Main components include: 
 Python Flask for the GUI part, argparse library for the CLI, SQLAlchemy for the database management system.
 For version control, we use Git. And we use GitHub for our source code management. Our workflow is as follows:
-when we want to create a new feature or fix a bug, we create a feature branch based off of the current
+when we want to create a new feature or fix a bug, we create a feature branch based on the current
 development branch. When we have completed the feature or fixed the bug, we create a pull request to merge
 into the development branch. Here, we have some unittest checks automatically triggered to check if this new
 pull request will break anything. If all goes well in code review and the tests, it will be merged into 
@@ -87,13 +87,13 @@ For documentation, our team used to use Confluence for all sorts of topics. Howe
 to using Sphinx recently as it is the smarter and more efficient choice to document a project. Sphinx is 
 a tool that makes it super easy to create intelligent and beautiful documentation. One amazing feature Sphinx has 
 is the ability to automatically read the doc strings of the source code and generate documentation for it. 
-Sphinx takes in plain-test files in ``reStructuredText`` format and transforms it into HTML, PDF, and any
+Sphinx takes in plain-text files in ``reStructuredText`` format and transforms it into HTML, PDF, and any
 other format desired. The main selling point is that everything is automatically generated, there is little 
 to none effort required to style the documentation.
 
 Tests
 ~~~~~
-For writing unittests, we just use the python built-in unittest library to write all our tests.
+For writing unittests, we use the python built-in unittest library to write all our tests.
 We also use pytest to run our tests, as they are both compatible to be used together. We also have
 a unittest base class set up, so whenever a new test needs to be written, the developer just needs
 to inherit that base class, and all the setUpClass and tearDownClass logic will be handled and taken

@@ -45,3 +45,11 @@ Conclusion
     :maxdepth: 2
 
     topics/conclusion
+
+Monthly Report
+==============
+
+.. toctree::
+    :maxdepth: 2
+
+    topics/monthly_report
